@@ -32,6 +32,14 @@
         android:src="@drawable/music_icon_big" />
  
 
+    <RelativeLayout
+        android:id="@+id/controls"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:padding="40dp">
+ 
+
         </RelativeLayout>
  
     </RelativeLayout>
