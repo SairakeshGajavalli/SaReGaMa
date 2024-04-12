@@ -18,8 +18,8 @@
 Runs on devices which uses andriod as operating system.
 
 ----------
-### Team members:-
- -Sathvik Reddy Cheruku
- -Sai Rakesh Gajavalli
- -Ram Niteesh Reddy Bandi
- -Bhanu Prakash Bathini
+### Team members:
+ - Sathvik Reddy Cheruku
+ - Sai Rakesh Gajavalli
+ - Ram Niteesh Reddy Bandi
+ - Bhanu Prakash Bathini
